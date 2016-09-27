@@ -165,7 +165,7 @@ function randomNum() {
       }
 
     }
-// 7th trie alert goes outside the loop above, otherwise it breaks everything. 
+// 7th trie alert goes outside the loop above, otherwise it breaks everything.
     if (count === 6) {
       alert("You LOST!@")
     }
